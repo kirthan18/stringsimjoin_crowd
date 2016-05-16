@@ -234,7 +234,7 @@ def main():
 	reward = 0.01
 	batch_size = 2
 	num_assignment = 3
-	duration = 60
+	duration = 3600
 
 	dict_str1 = {'s1' : ['a', 'b','c','d','e', 'f']}
 	df_str1 = pd.DataFrame(dict_str1)
